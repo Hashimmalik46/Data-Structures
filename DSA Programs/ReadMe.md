@@ -1,5 +1,4 @@
-
-
 ## About repo  
-This repository contains all the programs done in class of Autumn 2024.  
+This repository contains programs of 3rd Semester.
+
 
